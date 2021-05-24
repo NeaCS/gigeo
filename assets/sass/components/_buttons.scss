@@ -1,0 +1,12 @@
+.btn{
+    color: $white;
+    border-radius: 0;
+    width: 6rem;
+    &_msg{
+        background-color: $light-blue;
+        margin-right: 1rem;
+    }
+    &_follow{
+        background-color: $pink;
+    }
+}

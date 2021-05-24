@@ -1,0 +1,25 @@
+$poppins: 'Poppins', sans-serif;
+
+$dark: #001514;
+$light-blue: #92dce5;
+$pink: #ef6461;
+$gray: #55595c;
+$light-gray: #8f8f8f;
+$light: #f6f7f5;
+$white: #fff;
+
+
+$breakpoints: (
+    'small': 576px,
+    'medium': 768px,
+    'large': 992px,
+    'x-large': 1200px,
+);
+
+
+//mínimos
+$min-xs: 0px;
+$min-sm: 576px;
+$min-md: 768px;
+$min-lg: 992px;
+$min-xl: 1200px;
